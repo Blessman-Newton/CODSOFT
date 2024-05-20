@@ -1,4 +1,3 @@
-Certainly! Here's a detailed description for the Titanic Survival Prediction project that you can use on GitHub:
 
 ---
 
