@@ -2,11 +2,11 @@
 
 # CodSoft Internship - Data Science Projects
 
-This repository contains the projects I worked on during my Data Science Internship at CodSoft. The projects cover various domains and demonstrate different aspects of data science, including data preprocessing, feature engineering, model training, and evaluation. Below are the details of each project:
+This repository contains the projects I worked on during my Data Science Internship at CodSoft. The projects cover various domains and demonstrate different aspects of data science, including data preprocessing, feature engineering, model training, and evaluation. Below are the details of each project
 
 ## Projects Overview
 
-### 1. Titanic Survival Prediction
+## 1. Titanic Survival Prediction
 
 Predicting the survival of passengers aboard the RMS Titanic using machine learning techniques. The project involves data preprocessing, feature engineering, and building a classification model to estimate the probability of survival.
 
